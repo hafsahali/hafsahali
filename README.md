@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hafsahali
+- 👋 Hi, I’m Hafsah
 - 👀 I’m interested in buliding and learning new tech
 - 🌱 I’m on track for learning web development and UX design
 - 💞️ I enjoy learning new things
