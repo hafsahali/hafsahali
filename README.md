@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hafsahali
+- 👀 I’m interested in buliding and learning new tech
+- 🌱 I’m on track for learning web development and UX design
+- 💞️ I enjoy learning new things
+- 📫 Currently studying Computer science at Abubakar Tafawa Balewa University,Bauchi,Nigeria
+- E-mail me at @hafsahaliyu29@gmail.com.
