@@ -4,4 +4,4 @@
 - 🌱 I’m on track for learning web development
 - 💞️ I enjoy learning new things in tech
 - 📫 Currently studying Computer science at Abubakar Tafawa Balewa University,Bauchi,Nigeria
--  E-mail me at @hafsahaliyu29@gmail.com.
+-  E-mail me @hafsahaliyu29@gmail.com.
