@@ -1,5 +1,4 @@
 - 👋 Hi,my name is Hafsah.
-- 👀 I’m interested in buliding and learning new tech
 - 🌱 UX designer
 - 🌱 I’m on track for learning web development.
 - 🌱 Currently working with a group on an e-commerce website using html,css,javascript and making it responsive.
