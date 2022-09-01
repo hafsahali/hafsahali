@@ -4,4 +4,4 @@
 - 🌱 Currently working with a group on an e-commerce website using html,css,javascript and making it responsive.
 - 💞️ I enjoy learning new things in tech.
 - 📫 Currently studying Computer science at Abubakar Tafawa Balewa University,Bauchi,Nigeria.
--  E-mail me @hafsahaliyu29@gmail.com.
+-  E-mail me @hafsahaliyu29@gmail.com
